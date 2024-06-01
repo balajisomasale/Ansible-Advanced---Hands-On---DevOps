@@ -1,0 +1,15 @@
+Strategy - 4
+Introduction: Let's take it one step further. 
+The serial directive has some advanced use cases. 
+For example you could specify a percentage to say execute the playbook against 20% of servers at a time. 
+
+Task: Update serial directive to use a percentage (20%) instead of a value. 
+
+----------------------------------
+
+-
+  name: Deploy a web application
+  hosts: app_servers
+  serial: 20%
+
+  
