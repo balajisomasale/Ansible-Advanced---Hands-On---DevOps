@@ -1,0 +1,19 @@
+# Jinja2 Templating - 3
+# Task: Update the msg field in debug task to print the lowest number
+# in the given list using jinja2 filter "min" :- "Lowest = 6" 
+
+# -------------
+
+
+-
+  name: Test Jinja2 Templating
+  hosts: localhost
+  vars:
+    array_of_numbers:
+      - 12
+      - 34
+      - 06
+      - 34
+  tasks:
+  - debug:
+      msg: 'Lowest = {{ array_of_numbers | min }}'
