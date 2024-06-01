@@ -1,0 +1,14 @@
+Error Handling - 1
+Introduction: When ever a host fails execution of a task, 
+Ansible removes that host from the list and continues execution of playbook with the remaining hosts. 
+
+We would like Ansible to stop execution of the entire playbook if a single server was to fail. 
+
+Task: Set the any_errors_fatal option to True for the playbook.
+
+----------------------------------------
+
+-
+  name: Deploy a web application
+  hosts: app_servers
+  any_errors_fatal: True
