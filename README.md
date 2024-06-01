@@ -1,8 +1,14 @@
-# Ansible-Advanced---Hands-On---DevOps
-KodeKloud Udemy
+# Ansible-Advanced---Hands-On---DevOps :: KodeKloud Udemy
 
+## File Separation:
+- File separation can be used by invoking `include` command in a playbook. Its purpose is to use any playbook file into the main playbook.
+- For quick walkthrough of how file separation works, visit: https://github.com/balajisomasale/Ansible-Advanced---Hands-On---DevOps/blob/000b546735f14c937bf68f8fb25d6517d4341bd3/02%20File%20Seperation/Readme.md
 
+## Ansible Roles:
 - Roles were introduced to replace `include` commands of many `separation` among files and can be invoked anytime
+- For quick walkthrough of how Ansible roles works, visit: https://github.com/balajisomasale/Ansible-Advanced---Hands-On---DevOps/blob/b535f1cefbe5ff4fb5b00a380c36223d65ce01ee/03%20Roles/Readme.md
+  
+Asynchronous functions:
 - Asynchronous functions `async` to wait and `poll` frequency for tasks to finish. It also has `aync_status` with its parameters that can be used to check the status for any registered custom variable in a given play.
 
 
