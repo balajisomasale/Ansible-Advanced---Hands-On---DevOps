@@ -1,7 +1,9 @@
 Solutions of above coding exercises: 
 https://github.com/mmumshad/ansible-training-answer-keys-2/tree/master/Section_2_Web_Playbook
 
-File separation in Ansible refers to the practice of organizing your Ansible code into multiple files to improve readability, maintainability, and scalability. By separating your configuration into logical parts, you can manage and update your automation scripts more efficiently. Common strategies include splitting tasks, handlers, variables, and roles into separate files.
+# File separation in Ansible:
+
+refers to the practice of organizing your Ansible code into multiple files to improve readability, maintainability, and scalability. By separating your configuration into logical parts, you can manage and update your automation scripts more efficiently. Common strategies include splitting tasks, handlers, variables, and roles into separate files.
 
 Here’s an example to illustrate file separation in Ansible:
 
