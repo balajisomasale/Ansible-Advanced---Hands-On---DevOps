@@ -1,4 +1,6 @@
-In Ansible, strategies control the execution flow of your playbooks. They determine how tasks are executed across multiple hosts, influencing the concurrency, order, and speed of task execution. There are three main strategies in Ansible:
+# Strategies:
+
+control the execution flow of your playbooks. They determine how tasks are executed across multiple hosts, influencing the concurrency, order, and speed of task execution. There are three main strategies in Ansible:
 
 1. **Linear (default)**
 2. **Free**
