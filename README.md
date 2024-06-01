@@ -16,8 +16,9 @@
 - strategies control the execution flow of tasks across hosts, with options like linear for sequential execution, free for concurrent execution, and debug for interactive debugging.
 For detailed info: https://github.com/balajisomasale/Ansible-Advanced---Hands-On---DevOps/blob/c82c9765f5f347547b707c179d4901a6fd34ac20/05%20Strategies/Readme.md1
 
-
-
+## Error Handling:
+- Error handling in Ansible is crucial for managing and responding to failures in your playbooks. Ansible provides several mechanisms for error handling, including ignore_errors, failed_when, changed_when, and rescue/always blocks.
+- More details: https://github.com/balajisomasale/Ansible-Advanced---Hands-On---DevOps/blob/54146cbe652f197276b5e1e12072bd60f56b9d8c/06%20Error%20Handling/Readme.md
 
 
 
