@@ -10,6 +10,7 @@
   
 Asynchronous functions:
 - Asynchronous functions `async` to wait and `poll` frequency for tasks to finish. It also has `aync_status` with its parameters that can be used to check the status for any registered custom variable in a given play.
+- For quick walkthrough of how it works, visit: https://github.com/balajisomasale/Ansible-Advanced---Hands-On---DevOps/tree/f786769d74622642aef1522301079ecc8f01ee3a/04%20Asynchronous%20functions
 
 
 
