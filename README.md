@@ -24,7 +24,9 @@ For detailed info: https://github.com/balajisomasale/Ansible-Advanced---Hands-On
 - It is a templating engine used in Ansible to generate dynamic content. It allows you to use variables, control structures (like loops and conditionals), and filters to create templates for configuration files, scripts, or other text files.
 - More details: https://github.com/balajisomasale/Ansible-Advanced---Hands-On---DevOps/tree/701f6155a80979dee262cf9203d05e38c09a6f5b/07%20Jinja2%20Templating
 
-
+## Ansible Lookups:
+- It will allow you to retrieve data from external sources and use that data in your playbooks, roles, and templates. Lookups can be used to access files, generate lists, read environment variables, and more. They are evaluated on the Ansible controller side before the task is executed on the remote host
+- More details: https://github.com/balajisomasale/Ansible-Advanced---Hands-On---DevOps/tree/42c3ebd8603226d20716cf2c04fbc8bcbfbfe28d/08%20Lookups
 
 
 
