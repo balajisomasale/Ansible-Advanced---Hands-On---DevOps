@@ -28,6 +28,16 @@ For detailed info: https://github.com/balajisomasale/Ansible-Advanced---Hands-On
 - It will allow you to retrieve data from external sources and use that data in your playbooks, roles, and templates. Lookups can be used to access files, generate lists, read environment variables, and more. They are evaluated on the Ansible controller side before the task is executed on the remote host
 - More details: https://github.com/balajisomasale/Ansible-Advanced---Hands-On---DevOps/tree/42c3ebd8603226d20716cf2c04fbc8bcbfbfe28d/08%20Lookups
 
+## Ansible Vaults:
 
+- More details: https://github.com/balajisomasale/Ansible-Advanced---Hands-On---DevOps/tree/521bd246d7a8391ba803ad667b187301cfbe116c/09%20Vaults
 
+## Dynamic Inventory:
 
+- MOre details : https://github.com/balajisomasale/Ansible-Advanced---Hands-On---DevOps/tree/9e5632a5d063ba4f103fa42b598aa6b23e223c4a/10%20Dynamic%20Inventory
+
+## Custom Modules:
+- More details: https://github.com/balajisomasale/Ansible-Advanced---Hands-On---DevOps/tree/e88c3ba85274125441c0089a8667acb9a923114e/11%20Custom%20Modules
+
+## Plugins:
+- More details: https://github.com/balajisomasale/Ansible-Advanced---Hands-On---DevOps/tree/9b88c218c0099e786ff1ba772de98836f8c0b653/12%20Plugins
