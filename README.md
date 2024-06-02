@@ -20,7 +20,9 @@ For detailed info: https://github.com/balajisomasale/Ansible-Advanced---Hands-On
 - Error handling in Ansible is crucial for managing and responding to failures in your playbooks. Ansible provides several mechanisms for error handling, including ignore_errors, failed_when, changed_when, and rescue/always blocks.
 - More details: https://github.com/balajisomasale/Ansible-Advanced---Hands-On---DevOps/blob/54146cbe652f197276b5e1e12072bd60f56b9d8c/06%20Error%20Handling/Readme.md
 
-
+## Jinja2 Templating:
+- It is a templating engine used in Ansible to generate dynamic content. It allows you to use variables, control structures (like loops and conditionals), and filters to create templates for configuration files, scripts, or other text files.
+- More details: https://github.com/balajisomasale/Ansible-Advanced---Hands-On---DevOps/tree/701f6155a80979dee262cf9203d05e38c09a6f5b/07%20Jinja2%20Templating
 
 
 
